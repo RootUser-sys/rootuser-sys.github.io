@@ -1,0 +1,40 @@
+
+body {
+    background-color: #D1C4E9;
+}
+pre
+{
+  color: black;
+  padding: 0px;
+  border: 1px solid;
+}
+a:link, a:visited {
+background-color: pink;
+padding: 15px 25px;
+color: white;
+text-align: center;
+display:inline-block;
+font-family: fantasy;
+}
+.city{
+font-size:10px;
+color:black;
+background-color:rgb(252, 252, 252);
+padding:0px;
+font-family: Serif
+}
+p{
+  padding: 0px;
+  margin: 0px;
+}
+.desc p{
+color: rgb(0, 0, 0);
+    font-family: Roboto;
+    margin: 0px;
+    background: rgb(245, 190, 220);
+    width: 168px;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
